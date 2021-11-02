@@ -2,4 +2,4 @@ function x() {
 
 }
 
-window.addEventListener("load", x)
+window.addEventListener("load", )
